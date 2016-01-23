@@ -1,5 +1,5 @@
 # ScaleDrone Python
-Official ScaleDrone Node.js pushing library. This is a wrapper around the REST API.
+Official ScaleDrone Python pushing library. This is a wrapper around the REST API.
 
 ##Installation
 
