@@ -1,13 +1,13 @@
-# ScaleDrone Python
+# Scaledrone Python
 Official ScaleDrone Python pushing library. This is a wrapper around the REST API.
 
-##Installation
+## Installation
 
 ```
 pip install scaledrone
 ```
 
-##Usage
+## Usage
 Create a new instance of ScaleDrone passing it the `channelId` and `secretKey` that you can find from the channel's page
 ```python
 from scaledrone import ScaleDrone
