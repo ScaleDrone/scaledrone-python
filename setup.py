@@ -8,13 +8,13 @@ except ImportError:
 
 setup(
     name='scaledrone',
-    version='0.1.0',
-    description='Official ScaleDrone Python pushing library',
+    version='0.2.0',
+    description='Official Scaledrone Python pushing library',
     author='Serge Herkül',
     author_email='info@scaledrone.com',
     license='MIT',
-    url="https://github.com/ScaleDrone/scaledrone-python",
-    download_url="https://github.com/ScaleDrone/scaledrone-python/tarball/0.1",
+    url="https://github.com/Scaledrone/scaledrone-python",
+    download_url="https://github.com/Scaledrone/scaledrone-python/tarball/0.1",
     install_requires=[
         'requests >= 2.9.1'
     ],

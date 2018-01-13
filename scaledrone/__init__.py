@@ -1,1 +1,1 @@
-from .scaledrone import ScaleDrone
+from .scaledrone import Scaledrone
