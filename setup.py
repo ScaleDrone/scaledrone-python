@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import os
 import sys
 
@@ -9,12 +11,12 @@ except ImportError:
 setup(
     name='scaledrone',
     version='0.2.0',
-    description='Official Scaledrone Python pushing library',
+    description='Official Scaledrone Python API client',
     author='Serge Herkül',
     author_email='info@scaledrone.com',
     license='MIT',
     url="https://github.com/Scaledrone/scaledrone-python",
-    download_url="https://github.com/Scaledrone/scaledrone-python/tarball/0.1",
+    download_url="https://github.com/Scaledrone/scaledrone-python/tarball/0.2",
     install_requires=[
         'requests >= 2.9.1'
     ],
@@ -27,6 +29,6 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
-        'Topic :: Software Development :: Libraries :: Python Modules',
+        'Topic :: Software Development :: Libraries :: Python Modules'
     ]
 )
