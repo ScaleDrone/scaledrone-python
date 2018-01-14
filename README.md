@@ -70,3 +70,11 @@ The API returns [Requests](http://docs.python-requests.org/en/master/) responses
 ```
 python test.py
 ```
+
+## Uploading a new PyPi version
+
+Update `setup.py` with the new version. Then upload it:
+
+```
+python setup.py sdist upload -r pypi
+```
