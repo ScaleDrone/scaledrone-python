@@ -78,3 +78,8 @@ Update `setup.py` with the new version. Then upload it:
 ```
 python setup.py sdist upload -r pypi
 ```
+
+## Changelog
+
+* `0.2.0` Implemented latest REST API endpoints. Send data as JSON.
+* `0.1.0` Initial version
