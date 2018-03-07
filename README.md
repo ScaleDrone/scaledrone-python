@@ -51,7 +51,7 @@ print(response.json()) # ["room1", "room2"]
 
 ### Getting the list of users in a room
 ```python
-response = drone.test_room_members_list()
+response = drone.room_members_list('my-room')
 print(response.json()) # ["user3", "user4"]
 ```
 
